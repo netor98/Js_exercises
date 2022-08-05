@@ -39,6 +39,7 @@ const evenOrOdd = (num = undefined) => {
     ? console.log(`${num} it's even`)
     : console.log(`${num} it's odd`)
 }
+
 evenOrOdd(23);
 
 
